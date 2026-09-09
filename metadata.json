@@ -1,0 +1,6 @@
+{
+  "name": "Darwinian Swarm Quantitative Trading Engine",
+  "description": "Evolutionary multi-agent algorithmic trading system with Darwinian survival of the fittest mechanics, real-time microstructure alpha, Chief Risk Sentinel firewall, and local broker execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
